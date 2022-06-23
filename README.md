@@ -6,3 +6,4 @@ Order:
 
 1. Primary Setup
    1. Make changes to Settings (`settings/`)
+   2. Now change server in Softwares & Updates
