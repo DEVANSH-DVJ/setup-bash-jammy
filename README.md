@@ -8,3 +8,4 @@ Order:
    1. Make changes to Settings (`settings/`)
    2. Now change server in Softwares & Updates
    3. Run primary_setup.sh
+   4. Customize Gedit preferences (`gedit/`)
