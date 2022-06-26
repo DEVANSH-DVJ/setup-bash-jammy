@@ -9,3 +9,6 @@ Order:
    2. Now change server in Softwares & Updates
    3. Run primary_setup.sh
    4. Customize Gedit preferences (`gedit/`)
+   5. Continue to Step 2
+2. Windows connection
+   1. Run windows/windows_1.sh
