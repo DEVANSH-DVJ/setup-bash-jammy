@@ -21,3 +21,6 @@ mount -t ntfs /dev/nvme0n1p3 /home/devansh/Windows-C
 
 exit 0' | sudo tee /etc/rc.local;
 sudo chmod +x /etc/rc.local;
+
+## Reboot required before running windows_2.sh
+sudo reboot;
