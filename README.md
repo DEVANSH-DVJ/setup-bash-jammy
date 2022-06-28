@@ -12,4 +12,5 @@ Order:
    5. Continue to Step 2
 2. Windows connection
    1. Run windows/windows_1.sh
-   2. After restarting, run windows/windows_2.sh
+   2. Run lid_close_bug.sh, this will automatically **Reboot**.
+   3. After restarting, run windows/windows_2.sh
