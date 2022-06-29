@@ -23,4 +23,4 @@ exit 0' | sudo tee /etc/rc.local;
 sudo chmod +x /etc/rc.local;
 
 ## Reboot required before running windows_2.sh
-sudo reboot;
+# sudo reboot;
