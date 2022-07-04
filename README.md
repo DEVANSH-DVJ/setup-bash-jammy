@@ -17,4 +17,4 @@ Order:
    4. Configure Rhythmbox
    5. Continue to Step 3
 3. Basic Tools
-   1. Run git.sh
+   1. Run git.sh and configure ssh key.
