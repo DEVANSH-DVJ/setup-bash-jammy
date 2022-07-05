@@ -18,3 +18,4 @@ Order:
    5. Continue to Step 3
 3. Basic Tools
    1. Run git.sh and configure ssh key.
+   2. Run basic_tools.sh
