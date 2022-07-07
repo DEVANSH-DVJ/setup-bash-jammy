@@ -21,3 +21,7 @@ sudo apt -y install python3-argcomplete flake8 isort pylint;
 # C/C++
 sudo apt -y install gcc g++;
 sudo apt -y install clang-14;
+
+# Build Essentials
+sudo apt -y install build-essential
+sudo apt -y make cmake ninja-build;
