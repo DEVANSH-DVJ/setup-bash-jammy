@@ -25,3 +25,9 @@ sudo apt -y install clang-14;
 # Build Essentials
 sudo apt -y install build-essential
 sudo apt -y make cmake ninja-build;
+
+# Common aliases
+echo "
+alias sb='source ~/.bashrc';
+alias rm='rm -i';
+" >> ~/.bashrc;
