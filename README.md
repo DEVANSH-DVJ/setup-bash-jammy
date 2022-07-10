@@ -20,3 +20,4 @@ Order:
    1. Run git.sh and configure ssh key.
    2. Run basic_tools.sh
    3. Once terminator is installed, customize the Preferences
+   4. Run vim.sh
