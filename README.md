@@ -16,8 +16,8 @@ Order:
    3. After restarting, run windows/windows_2.sh
    4. Configure Rhythmbox
    5. Continue to Step 3
-3. Basic Tools
-   1. Run git.sh and configure ssh key.
-   2. Run basic_tools.sh
-   3. Once terminator is installed, customize the Preferences
-   4. Run vim.sh
+3. Common Tools
+   1. Run git.sh and configure ssh key
+   2. Run vim.sh
+   3. Run common_tools.sh
+   4. Once terminator is installed, customize the Preferences
