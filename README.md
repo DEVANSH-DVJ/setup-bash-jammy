@@ -21,3 +21,4 @@ Order:
    2. Run vim.sh
    3. Run common_tools.sh
    4. Once terminator is installed, customize the Preferences
+   5. Run lang_tools/\*.sh
