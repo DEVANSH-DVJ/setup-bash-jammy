@@ -3,8 +3,9 @@ sudo add-apt-repository ppa:deadsnakes/ppa;
 sudo apt update;
 sudo apt -y install python3.8 python3.8-venv python3.8-tk python-tk;
 sudo apt -y install python3-argcomplete flake8 isort pylint;
+sudo apt -y install python-is-python3;
 
-mkdir ~/virtualenvs;
+mkdir -p ~/virtualenvs;
 cd ~/virtualenvs;
 
 python3.8 -m venv 3.8;
