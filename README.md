@@ -23,3 +23,4 @@ Order:
    4. Once terminator is installed, customize the Preferences
    5. Run lang_tools/\*.sh
    6. Run browsers/\*.sh
+   7. Sync the account and customize the settings of Browsers
