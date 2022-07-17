@@ -16,7 +16,7 @@ Order:
    3. After restarting, run windows/windows_2.sh
    4. Configure Rhythmbox
    5. Continue to Step 3
-3. Softwares & Tools
+3. Softwares & Tools (Essentials, Language Tools, Browsers)
    1. Run git.sh and configure ssh key
    2. Run vim.sh
    3. Run common_tools.sh
