@@ -24,3 +24,5 @@ Order:
    5. Run lang_tools/\*.sh
    6. Run browsers/\*.sh
    7. Sync the account and customize the settings of Browsers
+   8. **Reboot** and move to Step 4
+4. Softwares & Tools (Accessibility, Editors, Optionals)
