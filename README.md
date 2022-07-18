@@ -27,3 +27,4 @@ Order:
    8. **Reboot** and move to Step 4
 4. Softwares & Tools (Accessibility, Editors, Optionals)
    1. Run accessibility/gnome.sh
+   2. Configure gnome-tweaks
