@@ -28,3 +28,4 @@ Order:
 4. Softwares & Tools (Accessibility, Editors, Optionals)
    1. Run `accessibility/gnome.sh`
    2. Configure gnome-tweaks (`accessibility/gnome/`)
+   3. Run `accessibility/dconf.sh`
