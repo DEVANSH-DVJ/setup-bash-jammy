@@ -8,7 +8,7 @@ Order:
    1. Make changes to Settings (`settings/`)
    2. Now change server in Softwares & Updates
    3. Run `primary_setup.sh`
-   4. Customize Gedit preferences (`gedit/`)
+   4. Customize gedit preferences (`gedit/`)
    5. Continue to Step 2
 2. Windows connection
    1. Run `windows/windows_1.sh`
@@ -20,7 +20,7 @@ Order:
    1. Run `git.sh` and configure ssh key
    2. Run `vim.sh`
    3. Run `common_tools.sh`
-   4. Customize preferences of terminator (`terminator/`)
+   4. Customize terminator preferences (`terminator/`)
    5. Run `lang_tools/*.sh`
    6. Run `browsers/*.sh`
    7. Once browsers are installed, sync the account and customize the settings
