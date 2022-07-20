@@ -20,11 +20,11 @@ Order:
    1. Run git.sh and configure ssh key
    2. Run vim.sh
    3. Run common_tools.sh
-   4. Once terminator is installed, customize the Preferences
+   4. Customize preferences of terminator (`terminator/`)
    5. Run lang_tools/\*.sh
    6. Run browsers/\*.sh
-   7. Sync the account and customize the settings of Browsers
+   7. Once browsers are installed, sync the account and customize the settings
    8. **Reboot** and move to Step 4
 4. Softwares & Tools (Accessibility, Editors, Optionals)
    1. Run accessibility/gnome.sh
-   2. Configure gnome-tweaks
+   2. Configure gnome-tweaks (`accessibility/gnome/`)
