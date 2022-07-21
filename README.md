@@ -29,3 +29,4 @@ Order:
    1. Run `accessibility/gnome.sh`
    2. Configure gnome-tweaks (`accessibility/gnome/`)
    3. Run `accessibility/dconf.sh`
+   4. Configure dconf-editor (`accessibility/dconf/`)
