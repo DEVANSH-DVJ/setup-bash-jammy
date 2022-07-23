@@ -30,4 +30,4 @@ Order:
    2. Configure gnome-tweaks (`accessibility/gnome/`)
    3. Run `accessibility/dconf.sh`
    4. Configure dconf-editor (`accessibility/dconf/`)
-   5. Run `editors/atom.sh`
+   5. Run `editors/*.sh`
