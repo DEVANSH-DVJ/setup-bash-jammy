@@ -32,3 +32,4 @@ Order:
    4. Configure dconf-editor (`accessibility/dconf/`)
    5. Run `editors/*.sh`
    6. Once editors are installed, sync the account and settings
+   7. Run `nvidia.sh`
