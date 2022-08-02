@@ -33,3 +33,5 @@ Order:
    5. Run `editors/*.sh`
    6. Once editors are installed, sync the account and settings
    7. Run `nvidia.sh`
+   8. **Reboot** and move to Step 5
+5. Optionals
