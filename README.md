@@ -25,7 +25,7 @@ Order:
    6. Run `browsers/*.sh`
    7. Once browsers are installed, sync the account and customize the settings
    8. **Reboot** and move to Step 4
-4. Softwares & Tools (Accessibility, Editors, Optionals)
+4. Softwares & Tools (Accessibility, Editors, Drivers)
    1. Run `accessibility/gnome.sh`
    2. Configure gnome-tweaks (`accessibility/gnome/`)
    3. Run `accessibility/dconf.sh`
