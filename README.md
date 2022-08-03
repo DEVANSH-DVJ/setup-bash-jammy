@@ -35,3 +35,4 @@ Order:
    7. Run `nvidia.sh`
    8. **Reboot** and move to Step 5
 5. Optionals
+   1. Configure GPU driver settings
