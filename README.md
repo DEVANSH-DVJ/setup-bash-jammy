@@ -36,3 +36,4 @@ Order:
    8. **Reboot** and move to Step 5
 5. Optionals
    1. Configure GPU driver settings
+   2. Run `optionals/*.sh`
