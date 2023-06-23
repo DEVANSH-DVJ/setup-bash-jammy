@@ -21,7 +21,7 @@ Order:
    2. Run `vim.sh`
    3. Run `common_tools.sh`
    4. Customize terminator preferences (`terminator/`)
-   5. Run `lang_tools/*.sh`
+   5. Run `lang_tools/*.sh` in order `cpp`, `build`, `java`, `js`, `python`, `tex`
    6. Run `browsers/*.sh`
    7. Once browsers are installed, sync the account and customize the settings
    8. **Reboot** and move to Step 4
