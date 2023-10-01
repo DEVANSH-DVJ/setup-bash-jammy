@@ -31,7 +31,7 @@ Order:
    2. Configure gnome-tweaks (`accessibility/gnome/`)
    3. Run `accessibility/dconf.sh`
    4. Configure dconf-editor (`accessibility/dconf/`)
-   5. Run `editors/vscode.sh`, `editors/sublime.sh`, `editors/atom.sh`
+   5. Run `editors/vscode.sh` [Optional: `editors/sublime.sh`, `editors/atom.sh`]
    6. Once editors are installed, sync the account and settings
    7. Run `nvidia.sh`
    8. **Reboot** and move to Step 5
