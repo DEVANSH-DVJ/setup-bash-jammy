@@ -9,7 +9,8 @@ Order:
    2. Now change server in Softwares & Updates
    3. Run `primary_setup.sh`
    4. Customize gedit preferences (`gedit/`)
-   5. Continue to Step 2
+   5. Customize terminal preferences (`editor/terminal.txt`)
+   6. Continue to Step 2
 2. Windows connection
    1. Run `windows/windows_1.sh`
    2. Run `lid_close_bug.sh`, this will automatically **Reboot**
