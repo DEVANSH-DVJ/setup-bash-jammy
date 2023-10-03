@@ -1,0 +1,29 @@
+## There are no commands, just configuration settings.
+
+Profile - default:
+    Text:
+        Cursor - Cursor shape : Underline
+        Sound - Terminal bell : False
+    Color:
+        Use colors from system theme - False
+        Built-in schemes: Custom
+            Text: #EBEBEB
+            Background: #31103E
+        Use transparency from system theme - False
+        Use transparent background - 20% from none
+    Scrolling:
+        Limited scrollback - False
+
+Profile - old:
+    Text:
+        Cursor - Cursor shape : Underline
+        Sound - Terminal bell : False
+    Color:
+        Use colors from system theme - False
+        Built-in schemes: Custom
+            Text: #EBEBEB
+            Background: #31103E
+        Use transparency from system theme - False
+        Use transparent background - none
+    Scrolling:
+        Limited scrollback - False
