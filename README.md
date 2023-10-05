@@ -10,7 +10,8 @@ Order:
    3. Run `primary_setup.sh`
    4. Customize gedit preferences (`gedit/`)
    5. Customize terminal preferences (`editor/terminal.txt`)
-   6. Continue to Step 2
+   6. Customize terminator preferences (`editor/terminator.txt`)
+   7. Continue to Step 2
 2. Windows connection
    1. Run `windows/windows_1.sh`
    2. Run `lid_close_bug.sh`, this will automatically **Reboot**
@@ -20,13 +21,11 @@ Order:
 3. Softwares & Tools (Essentials, Language Tools, Browsers)
    1. Run `git.sh` and configure ssh key
    2. Run `vim.sh`
-   3. Run `common_tools.sh`
-   4. Customize terminator preferences (`terminator/`)
-   5. Run `lang_tools/*.sh` [in order `cpp`, `build`, `java`, `js`, `python`]
-   6. Run `browsers/*.sh` [in order `chrome`, `brave`, `opera`]
-   7. Run `lang_tools/tex.sh`
-   8. Once browsers are installed, sync the account and customize the settings
-   9. **Reboot** and move to Step 4
+   3. Run `lang_tools/*.sh` [in order `cpp`, `build`, `java`, `js`, `python`]
+   4. Run `browsers/*.sh` [in order `chrome`, `brave`, `opera`]
+   5. Run `lang_tools/tex.sh`
+   6. Once browsers are installed, sync the account and customize the settings
+   7. **Reboot** and move to Step 4
 4. Softwares & Tools (Accessibility, Editors, Drivers)
    1. Run `accessibility/gnome.sh`
    2. Configure gnome-tweaks (`accessibility/gnome/`)
