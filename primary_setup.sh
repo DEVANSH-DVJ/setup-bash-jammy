@@ -9,7 +9,7 @@ apt list --upgradable;
 sudo apt -y upgrade;
 
 # Common tools
-sudo apt -y install tree bash-completion terminator;
+sudo apt -y install tree bash-completion curl terminator;
 
 # Common aliases
 echo "
