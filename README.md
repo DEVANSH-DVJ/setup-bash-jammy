@@ -23,10 +23,9 @@ Order:
    2. Run `git.sh` and configure ssh key
    3. Run `vim.sh`
    4. Run `browsers/*.sh` [in order `brave`, `opera`]
-   5. Run `lang_tools/*.sh` [in order `cpp`, `build`, `java`, `js`, `python`]
-   6. Run `lang_tools/tex.sh`
-   7. Once browsers are installed, sync the account and customize the settings
-   8. **Reboot** and move to Step 4
+   5. Once browsers are installed, sync the account and customize the settings
+   6. Run `lang_tools/*.sh` [in order `cpp`, `build`, `java`, `js`, `python`, `tex`]
+   7. **Reboot** and move to Step 4
 4. Softwares & Tools (Accessibility, Editors, Drivers)
    1. Run `accessibility/*.sh` [in order `gnome', `dconf']
    2. Configure gnome-tweaks (`accessibility/gnome/`)
