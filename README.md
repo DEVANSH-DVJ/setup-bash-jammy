@@ -27,14 +27,13 @@ Order:
    6. Once browsers are installed, sync the account and customize the settings
    7. **Reboot** and move to Step 4
 4. Softwares & Tools (Accessibility, Editors, Drivers)
-   1. Run `accessibility/gnome.sh`
+   1. Run `accessibility/*.sh` [in order `gnome', `dconf']
    2. Configure gnome-tweaks (`accessibility/gnome/`)
-   3. Run `accessibility/dconf.sh`
-   4. Configure dconf-editor (`accessibility/dconf/`)
-   5. Run `editors/vscode.sh` [Optional: `editors/sublime.sh`, `editors/atom.sh`]
-   6. Once editors are installed, sync the account and settings
-   7. Run `nvidia.sh`
-   8. **Reboot** and move to Step 5
+   3. Configure dconf-editor (`accessibility/dconf/`)
+   4. Run `editors/vscode.sh` [Optional: `editors/sublime.sh`, `editors/atom.sh`]
+   5. Once editors are installed, sync the account and settings
+   6. Run `nvidia.sh`
+   7. **Reboot** and move to Step 5
 5. Optionals
    1. Configure GPU driver settings
    2. Run `optionals/*.sh`
