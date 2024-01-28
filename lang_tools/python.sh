@@ -1,8 +1,7 @@
 ## Python
 sudo add-apt-repository ppa:deadsnakes/ppa;
 sudo apt update;
-sudo apt -y install python3.8 python3.8-venv python3.8-tk;
-sudo apt -y install python3.10 python3.10-venv python3.10-tk;
+sudo apt -y install python3.10 python3.10-tk;
 sudo apt -y install python3-argcomplete flake8 isort pylint;
 sudo apt -y install python-is-python3;
 
@@ -32,10 +31,8 @@ conda deactivate;
 conda clean -y --all;
 
 ## Python aliases
-echo "alias 3='source ~/virtualenvs/3.8/bin/activate';
-alias 1='source ~/virtualenvs/3.10/bin/activate';
-alias 0='deactivate';
-alias jp='source ~/virtualenvs/3.8/bin/activate; jupyter-notebook;';
-alias pm='python manage.py makemigrations; python manage.py migrate; python manage.py runserver';
+echo "alias 1='conda activate 3.10';
+alias 0='conda deactivate';
+alias jp='conda activate 3.10; jupyter-notebook;';
 " >>~/.bashrc;
 source ~/.bashrc;
