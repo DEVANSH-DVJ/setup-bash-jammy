@@ -27,7 +27,7 @@ Order:
    6. Run `lang_tools/*.sh` [in order `cpp`, `build`, `java`, `js`, `python`, `tex`]
    7. **Reboot** and move to Step 4
 4. Softwares & Tools (Accessibility, Editors, Drivers)
-   1. Run `accessibility/*.sh` [in order `gnome', `dconf']
+   1. Run `accessibility/*.sh` [in order `gnome`, `dconf`]
    2. Configure gnome-tweaks (`accessibility/gnome/`)
    3. Configure dconf-editor (`accessibility/dconf/`)
    4. Run `editors/vscode.sh` [Optional: `editors/sublime.sh`, `editors/atom.sh`]
