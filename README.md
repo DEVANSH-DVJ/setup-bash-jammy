@@ -24,7 +24,7 @@ Order:
    3. Run `vim.sh`
    4. Run `browsers/*.sh` [in order `brave`, `opera`]
    5. Once browsers are installed, sync the account and customize the settings
-   6. Run `lang_tools/*.sh` [in order `cpp`, `build`, `java`, `js`, `python`, `tex`]
+   6. Run `lang_tools/*.sh` [in order `cpp`, `build`, `java`, `js`, `conda`, `pyenv`, `tex`]
    7. **Reboot** and move to Step 4
 4. Softwares & Tools (Accessibility, Editors, Drivers)
    1. Run `accessibility/*.sh` [in order `gnome`, `dconf`]
@@ -33,7 +33,8 @@ Order:
    4. Run `editors/vscode.sh` [Optional: `editors/sublime.sh`, `editors/atom.sh`]
    5. Once editors are installed, sync the account and settings
    6. Run `nvidia.sh` [only HP]
-   7. **Reboot** and move to Step 5
+   7. Run `intel.sh` (Yet to test) [only Dell]
+   8. **Reboot** and move to Step 5
 5. Optionals
    1. Configure GPU driver settings [only HP]
    2. Run `optionals/*.sh`
