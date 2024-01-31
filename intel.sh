@@ -7,9 +7,9 @@ sudo apt -y install libigc-dev intel-igc-cm libigdfcl-dev libigfxcmrt-dev level-
 
 sudo apt -y install intel-gpu-tools;
 
-# https://askubuntu.com/questions/387594/how-to-measure-gpu-usage
+# sudo apt install conky;
 
-git clone https://github.com/intel/pti-gpu/
-cd pti-gpu/tools/sysmon
-mkdir build && cd build
-cmake -DCMAKE_BUILD_TYPE=Release .. && make
+# git clone https://github.com/intel/pti-gpu/;
+# cd pti-gpu/tools/sysmon;
+# mkdir build && cd build;
+# cmake -DCMAKE_BUILD_TYPE=Release .. && make;
