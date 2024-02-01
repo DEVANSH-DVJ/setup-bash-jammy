@@ -17,7 +17,8 @@ Order:
    2. Run `lid_close_bug.sh`, this will automatically **Reboot** [only HP]
    3. After restarting, run `windows/windows_2.sh` [only HP]
    4. Configure Rhythmbox [only HP]
-   5. **Reboot** and move to Step 3
+   5. Run `blurry_display.sh`, this will automatically **Reboot** [only Dell]
+   6. Continue to Step 3
 3. Softwares & Tools (Essentials, Language Tools, Browsers)
    1. Run `browsers/chrome.sh` and login to GitHub
    2. Run `git.sh` and configure ssh key
