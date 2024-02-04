@@ -34,7 +34,7 @@ Order:
    4. Run `editors/vscode.sh` [Optional: `editors/sublime.sh`, `editors/atom.sh`]
    5. Once editors are installed, sync the account and settings
    6. Run `nvidia.sh` [only HP]
-   7. Run `intel.sh` (Yet to test) [only Dell]
+   7. Run `intel.sh` [only Dell]
    8. **Reboot** and move to Step 5
 5. Optionals
    1. Configure GPU driver settings [only HP]
