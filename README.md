@@ -13,13 +13,13 @@ Order:
    6. Customize terminator preferences (`editor/terminator.txt`)
    7. Continue to Step 2
 2. Windows connection
-   1. Run `hp/windows_1_hp.sh` [only HP]
-   2. Run `hp/lid_close_bug.sh`, this will automatically **Reboot** [only HP]
-   3. After restarting, run `hp/windows_2.sh` [only HP]
-   4. Run `dell/windows_1_dell.sh` [only Dell]
-   5. Run `dell/blurry_display.sh`, this will automatically **Reboot** [only Dell]
-   6. After restarting, run `dell/windows_2.sh` [only Dell]
-   7. Configure Rhythmbox [only HP]
+   1. [HP] Run `hp/windows_1.sh`
+   2. [HP] Run `hp/lid_close_bug.sh`, this will automatically **Reboot**
+   3. [HP] After restarting, run `hp/windows_2.sh`
+   4. [HP] Configure Rhythmbox
+   5. [Dell] Run `dell/windows_1_dell.sh`
+   6. [Dell] Run `dell/blurry_display.sh`, this will automatically **Reboot**
+   7. [Dell] After restarting, run `dell/windows_2.sh`
    8. Continue to Step 3
 3. Softwares & Tools (Essentials, Language Tools, Browsers)
    1. Run `browsers/chrome.sh` and login to GitHub
@@ -35,9 +35,9 @@ Order:
    3. Configure dconf-editor (`accessibility/dconf/`)
    4. Run `editors/vscode.sh` [Optional: `editors/sublime.sh`, `editors/atom.sh`]
    5. Once editors are installed, sync the account and settings
-   6. Run `nvidia.sh` [only HP]
-   7. Run `intel.sh` [only Dell]
+   6. [HP] Run `nvidia.sh`
+   7. [Dell] Run `intel.sh`
    8. **Reboot** and move to Step 5
 5. Optionals
-   1. Configure GPU driver settings [only HP]
+   1. [HP] Configure GPU driver settings
    2. Run `optionals/*.sh`
